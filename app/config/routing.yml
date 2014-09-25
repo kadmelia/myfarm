@@ -1,0 +1,5 @@
+myfarm_site:
+    resource: "@MyfarmSiteBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
